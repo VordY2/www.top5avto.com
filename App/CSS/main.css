@@ -1,0 +1,143 @@
+h1 , h2 {
+			color: #DCDCDC;
+			text-align: right;
+			font-family: 'Montserrat', sans-serif;
+		}
+		footer{
+			text-align: center;
+			color: gray;
+			font-size: 15px;
+		}
+		h3{
+			font-size: 20px;
+			text-align: center;
+			border: 1px solid;
+			border-radius: 10px;
+			padding: 10px;
+		}
+		.main-headers{
+			background-image: url(../img/img2.jpg);
+			background-size: cover;
+			height: 450px;
+			background-position: center;
+
+		}
+		li{
+			margin-top: 17px;
+		}
+		img{
+			box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.5);
+			width: 100%;
+			height: auto;
+		}
+		*{
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+		}
+		.content{
+			width: 70%;
+			margin: auto;
+			background-color: white;
+			box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.5);
+		}
+		html{
+			background-color: #DCDCDC;
+		}
+		.menu{
+			width: 100%;
+			padding: 20px 0;
+			background-color: #DCDCDC;
+		}
+		.menu td{
+			text-align: center;
+			max-width: 40px;
+
+		}
+		button{
+			font-size: 15px;
+			padding: 5px 15px;
+			border-radius: 30px;
+		}
+		.menu button:hover{
+			transform: scale(1.1);
+			transition: 0.5s;
+			box-shadow: 0 0 10px 1px rgba(	0, 0, 0, 0.5);
+			color: gray;
+			background-color: #DCDCDC;
+		}
+		.menu button:active{
+			background-color: black;
+		}
+		ul{
+			margin: 30px 0;
+			font-family: 'Montserrat', sans-serif;
+			color: black;
+			font-size: 19px;
+			padding-left: 30px;
+		}
+		h3{
+			font-family: 'Montserrat', sans-serif;
+		}
+	.test-table tbody tr{
+			text-align: center;
+			font-family: 'Montserrat', sans-serif;
+			font-size: 40px;
+		}
+		tbody tr{
+			border-radius: 90px;
+		}
+		.t3{
+			box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.8);
+			opacity: 1;
+		}
+		.t3:hover{
+			opacity: 0.7;
+		}
+		.t3:active{
+				box-shadow: none;
+		}
+		.t4{
+			box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.8);
+			opacity: 1;
+		}
+		.t4:hover{
+			opacity: 0.7;
+		}
+		.t4:active{
+				box-shadow: none;
+		}
+		.t5{
+			box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.8);
+			opacity: 1;
+		}
+		.t5:hover{
+			opacity: 0.7;
+		}
+		.t5:active{
+				box-shadow: none;
+		}
+		.t6{
+			box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.8);
+			opacity: 1;
+		}
+		.t6:hover{
+			opacity: 0.7;
+		}
+		.t6:active{
+				box-shadow: none;
+		}
+		.t7{
+			box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.8);
+			opacity: 1;
+		}
+		.t7:hover{
+			opacity: 0.7;
+		}
+		.t7:active{
+				box-shadow: none;
+		}
+		
+		
+
+
